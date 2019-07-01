@@ -1,7 +1,7 @@
 {
-    "home": "/gpfs01/berens/user/lrogerson/imaging_probabilistic/",
-    "data": "/gpfs01/berens/user/lrogerson/imaging_probabilistic/data/",
-    "figs": "/gpfs01/berens/user/lrogerson/imaging_probabilistic/figs/",
-    "misc": "/gpfs01/berens/user/lrogerson/imaging_probabilistic/misc/"
+    "home": "/rogerson_et_al/",
+    "data": "/rogerson_et_al/data/",
+    "figs": "/rogerson_et_al/figs/",
+    "misc": "/rogerson_et_al/misc/"
 }
 
